@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ice1</string>
+    <string name="english">Hello World</string>
+    <string name="ciao_mondo">Ciao mondo!</string>
+    <string name="italian">Italian</string>
+    <string name="English">English</string>
+    <string name="French">French</string>
+    <string name="Spanish">Spanish</string>
+    <string name="Afrikaans">Afrikaans</string>
+</resources>
